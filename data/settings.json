@@ -1,0 +1,8 @@
+{
+    "sound": true,
+    "vibration": true,
+    "notifications": true,
+    "dark_mode": false,
+    "tts": true,
+    "high_contrast": false
+}
